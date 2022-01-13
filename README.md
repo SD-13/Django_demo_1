@@ -1,2 +1,2 @@
 # Lecture3
-A demo Django framework
+A Demo Django framework.
